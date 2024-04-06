@@ -35,7 +35,7 @@
         
         document.body.appendChild(container);
     }
-    );
+    );git
     
     } catch (error) {
         console.log(error);
